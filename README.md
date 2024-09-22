@@ -7,7 +7,7 @@ I'm passionate about web development, coding, and creating innovative digital so
 
 ## Projects
 
-### 🌟 [!](https://github.com/Athaa29/cek-khodam)
+### 🌟 [Cek Khodam](https://github.com/Athaa29/cek-khodam)
 Cek Khodam is a web-based tool designed to provide a personalized experience where users can check their "khodam" (spiritual companion). The application features an easy-to-use interface, random khodam generator, and a sleek, modern design. The project is built using **HTML**, **CSS**, and **JavaScript**, ensuring a seamless and intuitive experience across devices.
 
 **Features:**
@@ -19,7 +19,7 @@ Cek Khodam is a web-based tool designed to provide a personalized experience whe
 
 ---
 
-### 🎮 [!](https://github.com/Athaa29/player-status-window)
+### 🎮 [Stats Leveling](https://github.com/Athaa29/player-status-window)
 This project allows users to track and manage their game player status through a dynamic window interface. It’s built to enhance user interaction by displaying real-time updates and stats. Whether you’re a casual or professional gamer, this tool helps you stay on top of your game status, performance, and more.
 
 **Features:**
