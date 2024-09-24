@@ -19,7 +19,7 @@ Cek Khodam is a web-based tool designed to provide a personalized experience whe
 
 ---
 
-### 🎮 [Stats Leveling](https://github.com/Athaa29/player-status-window)
+### 🎮 [Stats Leveling](https://github.com/Athaa29/stats-leveling)
 This project allows users to track and manage their game player status through a dynamic window interface. It’s built to enhance user interaction by displaying real-time updates and stats. Whether you’re a casual or professional gamer, this tool helps you stay on top of your game status, performance, and more.
 
 **Features:**
@@ -27,9 +27,7 @@ This project allows users to track and manage their game player status through a
 - Customizable interface for different games
 - User-friendly and interactive design
 
-[🔗 View the repository](https://github.com/Athaa29/player-status-window)
-
----
+[🔗 View the repository](https://github.com/Athaa29/stats-leveling)
 
 ### 📫 Let's Connect
 Feel free to reach out if you want to collaborate on exciting projects or just have a chat about tech, gaming, or anything else!
