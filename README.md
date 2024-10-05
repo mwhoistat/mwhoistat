@@ -1,51 +1,37 @@
-# Hi there, I'm Athallah Putra!👋
+# Welcome to My GitHub Profile! 👋
 
-### About Me
-I'm passionate about web development, coding, and creating innovative digital solutions. I enjoy experimenting with new technologies and turning creative ideas into functional projects. Welcome to my GitHub profile where I showcase my latest work!
+I'm a passionate software developer dedicated to creating engaging and useful applications. Here are some projects I've worked on:
 
----
+## 📊 [Stats Leveling](https://github.com/Athaa29/stats-leveling)
 
-## Projects
+Stats Leveling is a system that allows users to track and improve their character statistics in a game. This project showcases my skills in:
+- RPG system development
+- State management in applications
+- Intuitive user interface design
 
-### 🌟 [Cek Khodam](https://github.com/Athaa29/cek-khodam)
-Cek Khodam is a web-based tool designed to provide a personalized experience where users can check their "khodam" (spiritual companion). The application features an easy-to-use interface, random khodam generator, and a sleek, modern design. The project is built using **HTML**, **CSS**, and **JavaScript**, ensuring a seamless and intuitive experience across devices.
+## 🔮 [Cek Khodam](https://github.com/Athaa29/cek-khodam)
 
-**Features:**
-- Randomized Khodam names generated for each user
-- Responsive design for mobile and desktop
-- Engaging and user-friendly interface
+Cek Khodam is a unique application exploring spiritual concepts in a digital format. Key features include:
+- User input interpretation
+- Simple prediction algorithms
+- Engaging and responsive interface
 
-[🔗 Check it out here](https://github.com/Athaa29/cek-khodam)
+## 📱 [Roasting HP](https://github.com/Athaa29/roasting-hp)
 
----
+Roasting HP is an entertainment platform that allows users to compare and "roast" smartphone specifications. This project demonstrates:
+- Use of APIs to fetch smartphone specification data
+- Implementation of comparison algorithms
+- Creativity in presenting humorous content
 
-### 🎮 [Stats Leveling](https://github.com/Athaa29/stats-leveling)
-This project allows users to track and manage their game player status through a dynamic window interface. It’s built to enhance user interaction by displaying real-time updates and stats. Whether you’re a casual or professional gamer, this tool helps you stay on top of your game status, performance, and more.
+## 🛠 Skills
 
-**Features:**
-- Real-time player stats
-- Customizable interface for different games
-- User-friendly and interactive design
+- Programming Languages: [Javascript]
 
-[🔗 View the repository](https://github.com/Athaa29/stats-leveling)
+## 📫 Contact Me
 
-### 📫 Let's Connect
-Feel free to reach out if you want to collaborate on exciting projects or just have a chat about tech, gaming, or anything else!
+- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- Instagram: [@yourinstagram](https://www.instagram.com/yourinstagram)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
 
-- [LinkedIn](https://www.linkedin.com/in/athallah-putra-26ba3532a?trk=contact-info)
-- [Twitter/X](https://x.com/KisukeeeG?s=09)
-- [Instagram](https://www.instagram.com/crovvley29?igsh=MTl4b2tnYmQya29tOQ==)
-
----
-
-**Languages & Tools:**
-- JavaScript, HTML5, CSS3
-- TailwindCSS, Bootstrap
-- Node.js, React.js
-
----
-
-🌱 Currently learning: **Advanced JavaScript**  
-💬 Ask me about: **Web development, UI/UX design**
-
-Thanks for stopping by! 😊
+Thank you for visiting my profile. Feel free to explore my projects and reach out if you have any questions or want to collaborate!
