@@ -29,7 +29,7 @@ Roasting HP is an entertainment platform that allows users to compare and "roast
 
 ## 📫 Contact Me
 
-- GitHub: [@yourusername](https://github.com/Athaa29)
+- GitHub: [@Athaa29](https://github.com/Athaa29)
 - Instagram: [@crovvley29](https://www.instagram.com/crovvley29/profilecard/?igsh=MTl4b2tnYmQya29tOQ==)
 
 Thank you for visiting my profile. Feel free to explore my projects and reach out if you have any questions or want to collaborate!
