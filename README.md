@@ -16,7 +16,7 @@ Cek Khodam is a unique application exploring spiritual concepts in a digital for
 - Simple prediction algorithms
 - Engaging and responsive interface
 
-## 📱 [Roasting HP](https://github.com/Athaa29/roasting-hp)
+## 📱 [Roasting HP](https://github.com/Athaa29/roastinghp)
 
 Roasting HP is an entertainment platform that allows users to compare and "roast" smartphone specifications. This project demonstrates:
 - Use of APIs to fetch smartphone specification data
@@ -29,9 +29,7 @@ Roasting HP is an entertainment platform that allows users to compare and "roast
 
 ## 📫 Contact Me
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Instagram: [@yourinstagram](https://www.instagram.com/yourinstagram)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- GitHub: [@yourusername](https://github.com/Athaa29)
+- Instagram: [@crovvley29](https://www.instagram.com/crovvley29/profilecard/?igsh=MTl4b2tnYmQya29tOQ==)
 
 Thank you for visiting my profile. Feel free to explore my projects and reach out if you have any questions or want to collaborate!
