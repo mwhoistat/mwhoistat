@@ -1,9 +1,5 @@
 ### > whois mwhoistat
 
-<p align="center">
-  <img src="https://pin.it/7b7aUut2r" alt="Running diagnostics..." width="400"/>
-</p>
-
 <h3 align="center">Athzxx</h3>
 
 <p align="center">
